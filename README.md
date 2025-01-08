@@ -33,4 +33,4 @@ Follow these steps to set up the project locally:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ujjawal-Singh/todo-list.git
+   https://github.com/Ujjawal-Singh/To-Do-List
